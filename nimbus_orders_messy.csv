@@ -1,0 +1,236 @@
+order_id,customer_name,city,state,order_date,category,product,quantity,unit_price,total
+1131,  Jamie Rossi  ,Austin,TX,2025-03-02,Outdoor,Headlamp,1,78.69,
+1066,Sam Brown,Boston,MA,2025-05-05,Home,Candle Set,2,18.1,
+1140,Kofi Johnson,Denver,CO,05/28/2025,Electronics,USB-C Hub,4,57.89,231.56
+1041,Nia Johnson,Seattle,WA,13-Mar-2025,Office,Pen Set,1,34.01,17.0
+1191,Fatima Nguyen,AUSTIN,TX,02/14/2025,electronics,Wireless Mouse,4,71.03,
+1096,Yusuf Lee,Denver,CO,28-May-2025,Electronics,Wireless Mouse,4,$51.88,207.52
+1162,  Yusuf Lee  ,Chicago,IL,19-May-2025,Electronics,Bluetooth Speaker,2,89.06,
+1083,Morgan Davis,Miami,FL,25-Mar-2025,Outdoor,Hiking Backpack,1,65.39,
+1004,Olivia Kim,Denver,CO,19-Apr-2025,home,Throw Blanket,5,40.28,201.4
+1016,Mateo Nguyen,Houston,TX,04/10/2025,Outdoor,Water Bottle,2,52.93,
+1205,Olivia Yamada,Atlanta,GA,29-Apr-2025,ELECTRONICS,Laptop Stand,5,53.03,132.57
+1046,Yusuf Lee,MIAMI,FL,2025-05-10,Office,Notebook Pack,6,32.0,
+1104,Olivia Yamada,Atlanta,GA,2025-02-20,home,Throw Blanket,6,,
+1119,Riley Novak,Houston,TX,2025-02-09,Electronics,Webcam HD,1,63.58,63.58
+1032,Sam Costa,NYC,NY,02/11/2025,Office,Standing Desk Mat,6,$34.39,
+1208,Alex Novak,Boston,MA,2025-04-23,Home,Ceramic Mug,2,34.18,
+1084,Hiro Nguyen,Denver,CO,06/02/2025,Home,Throw Blanket,3,20.59,61.77
+1218,  Ines Novak  ,Atlanta,GA,02/09/2025,Office,Desk Organizer,2,22.92,45.84
+1103,Fatima Nguyen,New York,NY,27-Apr-2025,Home,Throw Blanket,N/A,18.46,
+1160,LIAM KIM,Miami,FL,02-Feb-2025,Electronics,Wireless Mouse,3,$33.27,99.81
+1199,Sam Johnson,Boston,MA,15-Jun-2025,Home,Throw Blanket,3,34.91,
+1075,  Fatima Patel  ,Miami,FL,01/07/2025,Electronics,USB-C Hub,3,23.11,
+1071,  Sam Davis  ,Seattle,WA,05/19/2025,Office,Notebook Pack,4,5.58,
+1112,Liam Kim,Denver,CO,03/24/2025,Electronics,Webcam HD,3,45.63,136.89
+1123,Hiro Kim,Boston,MA,2025-05-31,Office,Notebook Pack,3,26.78,
+1065,Hiro Andersen,Seattle,WA,2025-04-10,Outdoor,Water Bottle,3,44.25,132.75
+1183,Morgan Brown,Miami,FL,01/08/2025,Outdoor,Water Bottle,2,92.02,
+1207,Ines Novak,Denver,CO,29-Mar-2025,home,Ceramic Mug,4,11.83,
+1099,Sam Novak,Boston,MA,2025-05-31,Outdoor,Rain Jacket,4,$44.11,176.44
+1015,Liam Davis,NEW YORK,NY,05/05/2025,Electronics,Wireless Mouse,2,27.47,
+1219,Taylor Lee,Chicago,IL,23-Jun-2025,Home,Candle Set,1,23.2,23.2
+1129,Morgan Brown,Seattle,WA,2025-03-09,Home,Ceramic Mug,4,$36.92,
+1039,Omar Müller,Chicago,IL,02/26/2025,Electronics,Webcam HD,1,79.39,79.39
+1074,  Olivia Patel  ,LOS ANGELES,CA,04/05/2025,Home,Candle Set,6,17.48,
+1171,Fatima Silva,MIAMI,FL,17-Jun-2025,Outdoor,Water Bottle,6,24.36,
+1143,Cameron Yamada,Miami,FL,2025-03-06,office,Standing Desk Mat,6,10.7,64.2
+1182,  Morgan Patel  ,Chicago,IL,2025-02-16,Office,Pen Set,3,15.53,
+1146,Sam Brown,CHICAGO,IL,04-Apr-2025,home,Desk Lamp,5,40.43,202.15
+10001,,,,,,,,,
+1005,Leo Kowalski,Boston,MA,16-Jun-2025,Home,Throw Blanket,N/A,44.82,
+1212,OMAR ROSSI,Austin,TX,2025-03-31,Electronics,Laptop Stand,6,$25.61,
+1189,Elena Costa,Boston,MA,03-Jun-2025,Office,Notebook Pack,2,16.86,
+1188,DREW SMITH,Austin,TX,01-Jun-2025,Outdoor,Water Bottle,3,85.25,127.88
+1035,Yusuf Chen,new york,NY,02/23/2025,Office,Pen Set,,31.97,31.97
+1026,Olivia Yamada,Boston,MA,03/31/2025,Home,Wall Clock,3,12.9,
+1200,Morgan Brown,Houston,TX,2025-06-04,Electronics,USB-C Hub,3,29.8,
+1078,INES PATEL,Los Angeles,CA,05-Apr-2025,electronics,Bluetooth Speaker,5,47.13,235.65
+1059,Omar Nguyen,Portland,OR,02-May-2025,Outdoor,Headlamp,,$108.9,
+1133,LIAM KIM,Portland,OR,08-Jan-2025,Electronics,Webcam HD,2,,
+1090,Omar Kim,Portland,OR,06/26/2025,Home,Throw Blanket,,35.49,35.49
+1011,  Olivia Kim  ,Seattle,WA,2025-01-14,Office,Whiteboard,4,19.01,
+1047,Casey Silva,ATLANTA,GA,2025-05-22,Outdoor,Hiking Backpack,4,$87.3,
+1068,Yusuf Chen,Miami,FL,01/07/2025,Electronics ,Webcam HD,5,57.33,286.65
+1062,  Morgan Kim  ,Los Angeles,CA,02/09/2025,Home,Desk Lamp,2,$22.17,
+1013,Sofia Brown,Houston,TX,2025-02-16,Home,Wall Clock,4,13.19,
+10000,,,,,,,,,
+1024,  Anya Silva  ,Phoenix,AZ,28-Apr-2025,Outdoor,Camping Chair,6,81.71,
+1007,Jamie Davis,Miami,FL,11-Jun-2025,Home,Wall Clock,2,$8.27,8.27
+1213,Casey Silva,Atlanta,GA,01/22/2025,Outdoor,Camping Chair,5,88.55,221.38
+1220,Anya Silva,Denver,CO,03/21/2025,Office,Whiteboard,2,21.02,
+1186,Omar Rossi,Chicago,IL,2025-04-19,Electronics,Wireless Mouse,3,48.23,72.34
+1216,  Hiro Nguyen  ,Houston,TX,05-Feb-2025,Office,Whiteboard,2,11.8,
+1089,Nia Chen,Austin,TX,2025-03-01,Office,Whiteboard,,14.2,
+1048,Yusuf Chen,Houston,TX,14-Feb-2025,Outdoor,Rain Jacket,6,92.8,
+1163,Yusuf Lee,Chicago,IL,03/02/2025,Electronics,Wireless Mouse,2,16.11,
+1138,Morgan Davis,Phoenix,AZ,2025-05-31,Home,Ceramic Mug,4,42.97,
+1042,Mateo Davis,Atlanta,GA,01/30/2025,Outdoor,Headlamp,3,113.44,340.32
+1064,Alex Lee,HOUSTON,TX,2025-01-06,Outdoor,Rain Jacket,5,114.17,
+1152,Morgan Patel,Miami,FL,2025-06-12,Office,Desk Organizer,2,,48.86
+1087,JAMIE DAVIS,Los Angeles,CA,2025-03-20,Office,Standing Desk Mat,4,25.75,
+1193,Olivia Yamada,Seattle,WA,01/20/2025,Electronics,Webcam HD,1,49.48,
+1178,Ines Patel,Phoenix,AZ,09-Feb-2025,Office,Notebook Pack,5,20.22,101.1
+1052,Olivia Kim,Los Angeles,CA,27-Mar-2025,Office,Desk Organizer,6,23.99,
+1144,RAVI MÜLLER,Portland,OR,21-Mar-2025,Home,Ceramic Mug,6,$31.91,
+1191,Fatima Nguyen,AUSTIN,TX,02/14/2025,electronics,Wireless Mouse,4,71.03,
+1196,Morgan Nguyen,Portland,OR,2025-03-04,Office,Notebook Pack,4,$30.33,
+1147,Sam Johnson,Boston,MA,04-May-2025,Office,Standing Desk Mat,3,32.42,
+1066,Sam Brown,Boston,MA,2025-05-05,Home,Candle Set,2,18.1,
+1115,Drew Smith,Seattle,WA,18-Feb-2025,Electronics,Laptop Stand,4,45.99,183.96
+1018,Olivia Kim,Portland,OR,15-Jan-2025,Outdoor,Camping Chair,2,44.04,88.08
+1031,Fatima Silva,Denver,CO,12-Mar-2025,Office,Notebook Pack,1,24.03,
+1154,  Noah Silva  ,Denver,CO,2025-02-04,Electronics,Wireless Mouse,2,81.54,
+1021,Riley Davis,Miami,FL,2025-05-26,Electronics,USB-C Hub,4,23.99,
+1110,Hiro Andersen,Miami,FL,14-Feb-2025,Electronics,Bluetooth Speaker,5,18.02,45.05
+1106,Alex Lee,Chicago,IL,2025-03-15,Office,Desk Organizer,N/A,29.73,
+1127,Jamie Rossi,Seattle,WA,01-Jun-2025,Home,Candle Set,1,12.67,12.67
+1073,Sofia Brown,Houston,TX,2025-05-02,Electronics ,Laptop Stand,2,,65.78
+1043,Jordan Davis,Chicago,IL,30-Mar-2025,Office,Notebook Pack,1,22.9,
+1155,Kofi Johnson,Denver,CO,09-Feb-2025,office,Desk Organizer,4,22.62,
+1072,Liam Johnson,Austin,TX,01/08/2025,Home,Ceramic Mug,6,9.49,56.94
+1136,Wei Silva,LA,CA,30-May-2025,Outdoor,Headlamp,6,$38.01,228.06
+1014,Sam Davis,Denver,CO,2025-05-21,Home,Ceramic Mug,4,37.9,
+1116,Olivia Okafor,Austin,TX,05/21/2025,Outdoor,Rain Jacket,1,33.98,33.98
+1102,Olivia Yamada,Chicago,IL,05/01/2025,Electronics,Webcam HD,4,66.7,
+1194,Wei Brown,Miami,FL,04/17/2025,Outdoor,Headlamp,4,,354.52
+1085,Morgan Silva,Phoenix,AZ,15-Apr-2025,Electronics,Laptop Stand,2,21.42,
+1006,Leo Novak,Denver,CO,2025-03-28,Outdoor,Water Bottle,2,36.27,
+1187,Elena Costa,Miami,FL,12-May-2025,Outdoor,Rain Jacket,,35.28,105.84
+1051,Riley Okafor,Denver,CO,13-Feb-2025,Home,Wall Clock,4,37.37,
+1215,Sam Johnson,LOS ANGELES,CA,21-Mar-2025,Outdoor,Headlamp,3,$13.97,
+1165,Sam Johnson,los angeles,CA,2025-05-12,Electronics,Webcam HD,4,73.35,293.4
+1101,Taylor Müller,Houston,TX,05/22/2025,Office,Notebook Pack,2,12.2,
+1135,Sofia Brown,Boston,MA,2025-02-13,Outdoor,Headlamp,6,97.59,292.77
+1141,Fatima Nguyen,Portland,OR,03-Jan-2025,Office,Notebook Pack,6,$16.87,101.22
+1079,Riley Davis,Boston,MA,28-Jan-2025,Office,Notebook Pack,4,29.67,118.68
+1025,Wei Brown,Los Angeles,CA,2025-01-26,Electronics,Webcam HD,5,89.88,449.4
+1109,Ines Nguyen,Miami,FL,06/22/2025,Office,Notebook Pack,1,11.87,5.93
+1126,Anya Silva,Miami,FL,02-May-2025,Outdoor,Camping Chair,4,$16.71,66.84
+1009,Sam Davis,Atlanta,GA,27-May-2025,Outdoor,Camping Chair,5,26.29,
+1134,SAM COSTA,Austin,TX,07-Feb-2025,Electronics,Bluetooth Speaker,3,43.11,129.33
+1054,Sofia Brown,Denver,CO,2025-05-28,Electronics ,Webcam HD,4,$81.46,
+1028,Noah Silva,Miami,FL,01/27/2025,Electronics,Laptop Stand,3,84.88,
+1017,Jordan Davis,Denver,CO,2025-05-23,Office,Whiteboard,6,33.72,
+1209,Sam Johnson,Boston,MA,10-Apr-2025,Home,Throw Blanket,3,41.96,
+1122,  Jamie Garcia  ,Portland,OR,17-Apr-2025,Home,Ceramic Mug,3,36.59,109.77
+1033,Riley Okafor,Boston,MA,2025-06-26,Outdoor,Headlamp,1,24.08,12.04
+1044,Wei Brown,Seattle,WA,01/12/2025,Electronics,Webcam HD,5,29.26,73.15
+1202,Olivia Nguyen,Denver,CO,05/01/2025,Office,Pen Set,2,18.19,36.38
+1058,Morgan Nguyen,Chicago,IL,04/24/2025,Outdoor,Headlamp,5,76.31,381.55
+1197,Anya Rossi,Miami,FL,21-Mar-2025,Outdoor,Headlamp,1,54.74,
+1218,  Ines Novak  ,Atlanta,GA,02/09/2025,Office,Desk Organizer,2,22.92,45.84
+1093,Noah Silva,NEW YORK,NY,05/22/2025,Home,Throw Blanket,1,44.05,44.05
+1023,Fatima Kowalski,Boston,MA,22-Mar-2025,Office,Pen Set,2,25.09,50.18
+1214,Casey Silva,Boston,MA,06/25/2025,Outdoor,Hiking Backpack,2,84.37,84.37
+1198,Hiro Kim,Houston,TX,30-Jan-2025,Office,Standing Desk Mat,1,$20.31,
+1190,Alex Lee,New York City,NY,03/07/2025,Home,Throw Blanket,2,36.39,
+1169,Olivia Yamada,Los Angeles,CA,12-Mar-2025,Office,Desk Organizer,2,6.97,
+1088,Olivia Kim,Miami,FL,19-Apr-2025,office,Whiteboard,5,20.93,104.65
+1156,Sam Brown,Atlanta,GA,03/13/2025,ELECTRONICS,Webcam HD,5,45.61,228.05
+1164,Mateo Smith,Austin,TX,18-Apr-2025,Electronics,USB-C Hub,3,18.93,56.79
+1174,Wei Brown,Atlanta,GA,05/02/2025,Office,Pen Set,2,25.6,
+1157,Ines Novak,Portland,OR,03/02/2025,Office,Standing Desk Mat,4,18.34,
+1036,Kofi Haddad,Houston,TX,04/15/2025,Electronics,Bluetooth Speaker,5,81.31,406.55
+1121,  Elena Novak  ,HOUSTON,TX,03-Jun-2025,Outdoor,Headlamp,2,53.43,
+1020,Fatima Silva,Boston,MA,2025-02-17,home,Ceramic Mug,5,10.96,
+1137,Morgan Brown,HOUSTON,TX,03-Jan-2025,Outdoor,Hiking Backpack,4,39.58,
+1045,ANYA ROSSI, New York,NY,20-Jun-2025,Home,Throw Blanket,4,$10.59,42.36
+1069,Alex Novak,Atlanta,GA,2025-03-08,Outdoor,Camping Chair,4,31.63,126.52
+1077,Hiro Brown,Atlanta,GA,06/25/2025,Home,Ceramic Mug,6,36.58,
+1113,OLIVIA PATEL,Los Angeles,CA,03/15/2025,Home,Throw Blanket,4,33.67,
+1036,Kofi Haddad,Houston,TX,04/15/2025,Electronics,Bluetooth Speaker,5,81.31,406.55
+1012,Ravi Müller,Atlanta,GA,01/28/2025,Electronics,Wireless Mouse,4,$69.62,278.48
+1056,Hiro Brown, New York,NY,28-Jun-2025,Electronics,Webcam HD,2,28.19,56.38
+9999,,,,,,,,,
+1010,Hiro Andersen,Denver,CO,2025-01-25,home,Candle Set,4,15.05,30.1
+1030,Ravi Patel,Miami,FL,09-Mar-2025,Home,Throw Blanket,2,33.44,33.44
+1040,Elena Andersen,DENVER,CO,2025-06-18,Office,Pen Set,,,23.38
+1204,Olivia Yamada,Phoenix,AZ,2025-03-15,Outdoor,Rain Jacket,1,18.14,18.14
+1057,Olivia Okafor,Denver,CO,02/01/2025,Electronics,Laptop Stand,2,83.81,
+1210,Fatima Nguyen,Austin,TX,2025-05-23,ELECTRONICS,Bluetooth Speaker,1,39.73,
+1141,Fatima Nguyen,Portland,OR,03-Jan-2025,Office,Notebook Pack,6,$16.87,101.22
+1092,Ines Patel,Phoenix,AZ,2025-02-15,Electronics,USB-C Hub,,32.06,96.18
+1060,FATIMA ANDERSEN,Phoenix,AZ,03/03/2025,Home,Throw Blanket,5,25.93,
+1206,  Olivia Nguyen  ,Boston,MA,03/24/2025,Electronics,Webcam HD,5,63.89,319.45
+1037,Omar Rossi,Portland,OR,2025-02-15,Home,Desk Lamp,2,44.12,
+1211,Ravi Müller,Seattle,WA,2025-06-04,office,Pen Set,6,30.55,
+1053,Riley Novak,Houston,TX,2025-01-12,Office,Standing Desk Mat,2,9.42,18.84
+1176,Yusuf Chen,Boston,MA,21-Jun-2025,Electronics,Laptop Stand,5,$57.13,
+1049,Omar Nguyen,Miami,FL,03/19/2025,Office,Whiteboard,5,30.01,
+1159,Sam Davis,Houston,TX,2025-06-14,Electronics,Webcam HD,1,64.71,
+1142,Fatima Kowalski,Atlanta,GA,03/15/2025,ELECTRONICS,Laptop Stand,6,52.25,
+1097,Taylor Müller,Atlanta,GA,03/19/2025,Electronics,USB-C Hub,2,75.84,
+1076,CASEY SILVA,MIAMI,FL,06/01/2025,Outdoor,Rain Jacket,6,33.42,
+1181,Omar Nguyen,Atlanta,GA,03/10/2025,Electronics,Laptop Stand,N/A,77.21,
+1217,Omar Rossi,LA,CA,15-May-2025,Office,Notebook Pack,5,$28.13,70.33
+1161,Fatima Kowalski,Houston,TX,03/01/2025,Electronics,Laptop Stand,2,58.98,
+1081,Elena Nguyen,Phoenix,AZ,2025-06-01,Outdoor,Rain Jacket,4,101.18,404.72
+1145,Riley Okafor,NEW YORK,NY,2025-03-25,Office,Standing Desk Mat,1,32.29,
+1100,  Leo Costa  ,PHOENIX,AZ,23-Feb-2025,Electronics,Laptop Stand,6,22.44,134.64
+1125,Yusuf Lee,Boston,MA,06/28/2025,Outdoor,Rain Jacket,3,105.92,158.88
+1184,Riley Novak,Portland,OR,02/10/2025,Home,Candle Set,4,24.78,99.12
+1118,Ines Novak,Houston,TX,15-Apr-2025,Home,Throw Blanket,5,$8.51,21.27
+1086,Elena Costa,Boston,MA,2025-04-25,Home,Candle Set,6,34.34,206.04
+1002,Fatima Nguyen,Phoenix,AZ,2025-01-21,Home,Ceramic Mug,2,40.49,
+1114,OLIVIA KIM,Seattle,WA,24-Mar-2025,Electronics,Webcam HD,1,38.59,
+1195,Fatima Nguyen,Los Angeles,CA,06/08/2025,Outdoor,Water Bottle,3,30.56,
+1175,RILEY DAVIS,Los Angeles,CA,04/06/2025,Electronics,Wireless Mouse,4,22.24,88.96
+1179,Olivia Kim,Denver,CO,2025-04-05,Home,Ceramic Mug,3,39.28,
+1166,Mateo Smith,Los Angeles,CA,01/12/2025,Outdoor,Headlamp,2,114.1,228.2
+1117,Yusuf Chen,Phoenix,AZ,11-Jun-2025,Outdoor,Rain Jacket,1,15.12,15.12
+1019,Olivia Nguyen,Portland,OR,05/03/2025,electronics,Bluetooth Speaker,1,18.76,
+1024,  Anya Silva  ,Phoenix,AZ,28-Apr-2025,Outdoor,Camping Chair,6,81.71,
+1055,Nia Johnson,PORTLAND,OR,17-Jun-2025,Outdoor,Rain Jacket,4,38.35,153.4
+1167,Olivia Kim,Boston,MA,01/16/2025,Office,Whiteboard,6,$33.92,101.76
+1029,Priya Nguyen,Phoenix,AZ,11-Mar-2025,Electronics,Wireless Mouse,6,,169.47
+1128,Yusuf Lee,Los Angeles,CA,01/04/2025,Outdoor,Water Bottle,5,$110.33,551.65
+1158,Fatima Nguyen,Los Angeles,CA,12-Apr-2025,Office,Desk Organizer,6,15.76,
+1050,Ravi Patel,Houston,TX,04/30/2025,Outdoor,Headlamp,5,82.71,
+1095,Ravi Patel,Denver,CO,14-Jan-2025,Outdoor,Rain Jacket,3,31.91,95.73
+1021,Riley Davis,Miami,FL,2025-05-26,Electronics,USB-C Hub,4,23.99,
+1038,FATIMA NGUYEN,New York,NY,2025-03-05,Home,Throw Blanket,4,37.68,
+1177,Omar Kim,Seattle,WA,2025-03-15,Office,Whiteboard,6,6.54,39.24
+1080,Anya Rossi,AUSTIN,TX,14-May-2025,Outdoor,Camping Chair,4,31.02,124.08
+1124,Olivia Nguyen,Atlanta,GA,30-Mar-2025,Outdoor,Camping Chair,4,70.17,280.68
+1034,Omar Rossi,Boston,MA,21-Apr-2025,Electronics,Bluetooth Speaker,5,56.44,141.1
+1172,Elena Nguyen,Boston,MA,2025-04-16,Home,Candle Set,4,40.86,163.44
+1008,Alex Lee,Houston,TX,02-Mar-2025,Electronics,Wireless Mouse,3,20.31,
+1063,Leo Kowalski,los angeles,CA,17-Apr-2025,Outdoor,Rain Jacket,,$70.6,211.8
+10002,,,,,,,,,
+10003,,,,,,,,,
+1158,Fatima Nguyen,Los Angeles,CA,12-Apr-2025,Office,Desk Organizer,6,15.76,
+1098,Alex Novak,HOUSTON,TX,08-Jun-2025,Electronics,Laptop Stand,4,60.47,241.88
+1111,Elena Novak,Boston,MA,22-Apr-2025,Outdoor,Hiking Backpack,2,119.67,239.34
+1105,Leo Costa,Los Angeles,CA,2025-01-19,Home,Desk Lamp,3,38.59,
+1070,Jamie Rossi,Austin,TX,2025-04-08,Home,Candle Set,3,20.49,30.73
+1091,Hiro Nguyen,Houston,TX,05/15/2025,Home,Candle Set,3,34.81,
+1180,Drew Smith,Phoenix,AZ,2025-06-09,Home,Candle Set,,44.06,
+1130,Hiro Kim,Miami,FL,17-May-2025,outdoor,Water Bottle,3,$104.05,312.15
+1061,Sam Davis,DENVER,CO,2025-03-23,Electronics,Bluetooth Speaker,2,35.38,
+1192,Yusuf Chen,Seattle,WA,04/01/2025,Home,Wall Clock,5,38.83,194.15
+1003,Alex Novak,Portland,OR,2025-02-02,Outdoor,Water Bottle,5,94.71,473.55
+1067,Morgan Patel,Seattle,WA,04/30/2025,Office,Whiteboard,6,9.95,
+1151,  Jordan Davis  ,Miami,FL,05/01/2025,Outdoor,Hiking Backpack,1,84.88,
+1082,  Omar Müller  ,Austin,TX,03/04/2025,Home,Ceramic Mug,3,40.62,
+1027,Riley Davis,Houston,TX,05/20/2025,office,Pen Set,2,18.15,
+1143,Cameron Yamada,Miami,FL,2025-03-06,office,Standing Desk Mat,6,10.7,64.2
+1168,Mateo Nguyen,Seattle,WA,2025-04-24,Outdoor,Water Bottle,4,88.94,177.88
+1094,Fatima Nguyen,PORTLAND,OR,27-May-2025,Home,Candle Set,1,40.29,
+1173,HIRO KIM,Denver,CO,2025-04-20,Outdoor,Rain Jacket,6,22.27,133.62
+1149,  Sam Novak  ,Atlanta,GA,2025-04-12,Outdoor,Headlamp,3,21.75,65.25
+1167,Olivia Kim,Boston,MA,01/16/2025,Office,Whiteboard,6,$33.92,101.76
+1120,Liam Costa,Portland,OR,2025-05-04,Office,Desk Organizer,6,,
+1150,ALEX NGUYEN,Phoenix,AZ,22-Jun-2025,Electronics,Webcam HD,3,65.46,
+1139,Noah Silva,Atlanta,GA,2025-02-20,Outdoor,Hiking Backpack,4,103.29,
+1170,Omar Rossi,Atlanta,GA,2025-04-27,Office,Whiteboard,5,$20.92,
+1108,FATIMA SILVA,Boston,MA,2025-04-21,Outdoor,Rain Jacket,1,76.59,38.3
+1203,Riley Okafor,ATLANTA,GA,2025-05-10,Office,Pen Set,5,6.69,33.45
+1148,Fatima Nguyen,Portland,OR,02/06/2025,Office,Notebook Pack,4,33.89,135.56
+1022,SOFIA BROWN,Miami,FL,05/30/2025,Electronics,Laptop Stand,1,46.44,
+1001,Taylor Lee,Boston,MA,29-Jan-2025,Electronics,Laptop Stand,3,$51.65,154.95
+1201,Omar Rossi,Atlanta,GA,25-May-2025,Electronics,USB-C Hub,6,52.06,
+1185,Leo Novak,Phoenix,AZ,2025-01-14,Office,Desk Organizer,5,7.55,37.75
+1132,Taylor Müller,ATLANTA,GA,2025-01-26,Office,Standing Desk Mat,6,$7.71,
+1153,Morgan Davis,Portland,OR,01/10/2025,Office,Whiteboard,1,9.19,4.59
+1107,RILEY OKAFOR,Los Angeles,CA,03/11/2025,Outdoor,Hiking Backpack,6,55.47,
