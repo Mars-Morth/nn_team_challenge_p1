@@ -4,11 +4,12 @@ import numpy as np
 INPUT_CSV = "nimbus_orders_messy.csv"
 OUTPUT_CSV = "nimbus_orders_clean.csv"
 
+
 def clean_orders(input_csv, output_csv):
     df = pd.read_csv(input_csv)
 
     print(f"Before dropping junk rows: {len(df)}")
-    
+
     df.drop_duplicates(inplace=True)
     df.dropna(inplace=True, how="all")
     df = df[df["order_id"] < 2000]
@@ -19,17 +20,27 @@ def clean_orders(input_csv, output_csv):
 
     df.to_csv(output_csv)
 
+
+def average_order_electronics(input_csv):
+    df = pd.read_csv(input_csv)
+    df = df[df["category"].str.lower() == "electronics"]
+    average = df["total"].sum() / len(df)
+    print(f"Average order of electronics: {average}")
+
+
 def seattle_revenue(input_csv):
     df = pd.read_csv(input_csv)
     total = df.loc[df["city"] == "Seattle", "total"].sum()
     print(total)
+
 
 def outdoor_total(input_csv):
     df = pd.read_csv(input_csv)
     total = df.loc[df["category"] == "Outdoor", "quantity"].sum()
     print(total)
 
+
 clean_orders(INPUT_CSV, OUTPUT_CSV)
 seattle_revenue(OUTPUT_CSV)
 outdoor_total(OUTPUT_CSV)
-
+average_order_electronics(OUTPUT_CSV)
