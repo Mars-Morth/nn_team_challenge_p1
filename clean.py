@@ -15,6 +15,7 @@ def clean_orders(input_csv, output_csv):
     df = df[df["order_id"] < 2000]
     # df = df[df["customer_name"].isna()]
     df["order_date"] = pd.to_datetime(df["order_date"], format="mixed")
+    df["category"] = df["category"].str.lower()
 
     print(f"After dropping junk rows: {len(df)}")
 
