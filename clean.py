@@ -15,9 +15,12 @@ def clean_orders(input_csv, output_csv):
     df.drop_duplicates(inplace=True)
     df.dropna(inplace=True, how="all")
     df = df[df["order_id"] < 2000]
-    # df = df[df["customer_name"].isna()]
+    df = df[df["customer_name"].notna()]
+    df["customer_name"] = df["customer_name"].str.strip()
+    df["customer_name"] = df["customer_name"].str.lower()
     df["order_date"] = pd.to_datetime(df["order_date"], format="mixed")
     df["category"] = df["category"].str.lower()
+    df["city"] = df["city"].str.lower()
 
     print(f"After dropping junk rows: {len(df)}")
 
