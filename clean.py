@@ -21,17 +21,36 @@ def clean_orders(input_csv, output_csv):
 
     df.to_csv(output_csv)
 
+def total_revenue(input_csv):
+    df = pd.read_csv(input_csv)
+    total = df["total"].sum()
+    print(total)
+
+def most_cat_revenue(input_csv):
+    df = pd.read_csv(input_csv)
+    categories = (df["category"].str.lower()).unique()
+    max_ = float("-inf")
+    cat_ = ""
+    for cat in categories:
+        total = df.loc[df["category"].str.lower() == cat, "total"].sum()
+        if total > max_:
+            max_ = total
+            cat_ = cat
+    print(f"{cat_} : {max_}")
+
 def seattle_revenue(input_csv):
     df = pd.read_csv(input_csv)
-    total = df.loc[df["city"] == "Seattle", "total"].sum()
+    total = df.loc[df["city"] == "seattle", "total"].sum()
     print(total)
 
 def outdoor_total(input_csv):
     df = pd.read_csv(input_csv)
-    total = df.loc[df["category"] == "Outdoor", "quantity"].sum()
+    total = df.loc[df["category"] == "outdoor", "quantity"].sum()
     print(total)
 
 clean_orders(INPUT_CSV, OUTPUT_CSV)
+total_revenue(OUTPUT_CSV)
+most_cat_revenue(OUTPUT_CSV)
 seattle_revenue(OUTPUT_CSV)
 outdoor_total(OUTPUT_CSV)
 
