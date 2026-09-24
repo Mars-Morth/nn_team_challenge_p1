@@ -7,6 +7,8 @@ OUTPUT_CSV = "nimbus_orders_clean.csv"
 def clean_orders(input_csv, output_csv):
     df = pd.read_csv(input_csv)
 
+    df["order_date"] = pd.to_datetime(df["order_date"], format="mixed")
+
     print(f"Before dropping junk rows: {len(df)}")
     
     df.drop_duplicates(inplace=True)
