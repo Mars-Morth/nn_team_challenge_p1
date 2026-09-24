@@ -10,15 +10,11 @@ def clean_orders(input_csv, output_csv):
     print(f"Before dropping junk rows: {len(df)}")
     
     df.drop_duplicates(inplace=True)
-    df.dropna(inplace=True)
+    df.dropna(inplace=True, how="all")
 
     print(f"After dropping junk rows: {len(df)}")
 
     df.to_csv(output_csv)
-
-def unique_more_than_one(input_csv):
-    df = pd.read_csv(input_csv)
-
 
 def seattle_revenue(input_csv):
     df = pd.read_csv(input_csv)
